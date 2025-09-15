@@ -1,0 +1,8 @@
+{
+  "name": "Agri-Voice Assistant",
+  "description": "A voice-first, multilingual web application designed to provide farmers with agricultural advice, market prices, and information on government schemes without needing to type. It emphasizes simplicity and accessibility.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
